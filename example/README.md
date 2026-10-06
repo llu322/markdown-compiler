@@ -24,3 +24,9 @@ We read about plants at [Wikipedia](https://en.wikipedia.org/wiki/Plant).
 
 The path led us back to the gate.
 We left the garden as we found it.
+
+
+```
+for i in range(3):
+    print(i)
+```
